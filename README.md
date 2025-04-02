@@ -1,2 +1,1 @@
-## Sales and Traffic Analysis Dashboard
-This dashboard summarizes key sales and traffic metrics, including total sales and orders, segmented by various dimensions like channel, device, and geography. It provides a quick overview of business performance and trends.
+This repository contains Python scripts for analyzing A/B test results, including calculating conversion rates, metric changes, and statistical significance. It also includes visualizations of sales and traffic data, offering insights into user behavior and business performance.
